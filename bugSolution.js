@@ -1,0 +1,1 @@
+The solution involves implementing a retry mechanism with error handling and using `Linking.addEventListener` to handle the case when `getInitialURL` fails.  This ensures the app gracefully handles the situation and gets the URL eventually.  See `bugSolution.js` for implementation details.
